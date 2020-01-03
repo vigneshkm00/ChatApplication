@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836652802617",
+    "firebase_url": "https://chatapplication-bd554.firebaseio.com",
+    "project_id": "chatapplication-bd554",
+    "storage_bucket": "chatapplication-bd554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836652802617:android:ea5f29d6c52957058fa3e8",
+        "android_client_info": {
+          "package_name": "com.vignesh.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836652802617-qpnr476dvrntk037a69avst903mo1il0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vignesh.chatapplication",
+            "certificate_hash": "318938052eeba8d34dc4e087174793ea6f3ca651"
+          }
+        },
+        {
+          "client_id": "836652802617-6g7k3rn80dhm90titbe16ghpg8tgdr84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADf_lV34HO7Ptsd3dVQJSAIyQJdM2DqWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836652802617-6g7k3rn80dhm90titbe16ghpg8tgdr84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
